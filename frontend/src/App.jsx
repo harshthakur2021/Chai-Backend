@@ -9,7 +9,7 @@ function App() {
   return (
     <>
     <h1>Harsh- Associate software engineer</h1>
-     <h2> Durgapur </h2>
+     <h2> Durgapur bcet</h2>
     </>
   )
 }
